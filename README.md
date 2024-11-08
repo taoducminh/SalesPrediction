@@ -86,7 +86,3 @@ pip install -r requirements.txt
 
 The model is evaluated using the \( R^2 \) score on the test set, which reflects the accuracy of the model's predictions.
 
-## Acknowledgements
-
-- This project is inspired by real-world applications in marketing analytics.
-- Special thanks to the contributors of the scikit-learn library for their tools, which make machine learning accessible and efficient.
